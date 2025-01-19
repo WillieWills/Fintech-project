@@ -1,0 +1,54 @@
+.img{
+   height: 60px;
+   width: 60px;
+   background: red;
+   border-radius: 50%;
+   margin: 5px 2px0 20px 5px;
+   overflow: hidden;
+}
+.img img{
+   width: 100%;
+   height: 100%;
+   object-fit:cover;
+}
+p{
+ margin: 0px;
+}
+.container-fluid{
+   background-color:black;
+}
+.body{
+   background-color: black;
+   
+}
+.txt{
+   display:flex;
+   justify-content: space-around;
+}
+canvas{
+   max-width: 320px;
+   max-height: 200px;
+}
+.CHART{
+   display: flex;
+   align-items: center ;
+   justify-content: center;   
+}
+.bit{
+   height: 100px;
+   width: 100px;
+   display:flex;
+   flex-direction: column;
+   justify-content: center ;
+   text: center ;
+   align-items: center
+   
+}
+.container{
+   display: flex;
+   align-items: center ;
+   justify-content: space-around;
+}
+#bi{
+   
+}
